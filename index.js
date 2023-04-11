@@ -103,4 +103,21 @@ server.delete('/data/:id', (req, res) => {
 
   // Find data by ID
   const index = db.data.findIndex(d => d.id === id);
-  if (index === -
+  if (index === --1) {
+res.status(404).json({ error: 'Data not found' });
+return;
+}
+
+// Remove data from database
+db.data.splice(index, 1);
+
+// Save database and return response
+saveDatabase();
+res.json({ message: 'Data removed' });
+});
+
+// Start JSON Server
+const PORT = process.env.PORT || 8000;
+server.listen(PORT, () => {
+console.log(JSON Server is running on http://localhost:${PORT});
+});
