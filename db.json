@@ -1,183 +1,139 @@
 {
-    "product": [
-      {
-        "id": 1,
-        "title": "Rower szosowy Trek Madone SLR 9 Gen 7 2023",
-        "price": 350,
-        "type": "Szosa",
-        "description": "Szukasz tego co najlepsze i najszybsze? Nowy trek Madone SLR9 to prawdziwe dzieło sztuki, które dobrze wie, jak smakuje wygrana!",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-szosowy-trek-madone-slr-9-gen-7-2023-srebrny-01_1.jpg",
-        "size": "M",
-        "color": "srebny",
-        "productCount": 7,
-        "model": "SLR 9 Gen 7 2023",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Rower fitness Giant Escape Disc 2 2023",
-        "price": 110,
-        "type": "Miejski",
-        "description": "Escape City Disc 2 2023 to nowy, uniwersalny rower typu urban od Gianta. To maszyna do szybkiego przemieszczania się po mieście pozwalająca na szybkie dojazdy do pracy, czy szkoły.",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-miejski-giant-escape-disc-2-2022_1__1.jpg",
-        "size": "S",
-        "color": "grafitowy",
-        "productCount": 3,
-        "model": "Escape Disc 2 2023",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Rower crossowy Polygon Heist X2",
-        "price": 121,
-        "type": "Cross",
-        "description": "Heist X2 to wszechstronny rower gotowy na wszystkie wyzwania, jakie postawi przed nim przestrzeń miejska. Świetny na dojazdy do pracy i weekendowe wycieczki po podmiejskich ścieżkach rowerowych.",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-crossowy-polygon-heist-x2-2022-01_4.jpg",
-        "size": "L",
-        "color": "niebieski",
-        "productCount": 1,
-        "model": "Heist X2",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Rower szosowy Trek Madone SLR 9 eTap Gen 7",
-        "price": 550,
-        "type": "Szosa",
-        "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-szosowy-trek-madone-slr-9-etap-gen-7-2023-blekitny-01_5.jpg",
-        "size": "M",
-        "color": "błękitny",
-        "productCount": 1,
-        "model": "Madone SLR 9 eTap Gen 7",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Rower szosowy Trek Domane AL 2 2023",
-        "price": 169,
-        "type": "Szosa",
-        "description": "Domane AL 2 2023 to najnowsza wersja jednego z podstawowych modeli rowerów szosowych od Treka. To propozycja dla osób stawiających pierwsze kroki w kolarstwie szosowym, która pozwoli na zdobywanie formy i odkrywanie tej dyscypliny.",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-szosowy-trek-domane-al-2-2021-niebieski-01_1_1.jpg",
-        "size": "M",
-        "color": "niebieski",
-        "productCount": 10,
-        "model": "Trek Domane AL 2 2023",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Rower gravel Specialized Diverge Sport Carbon 2022",
-        "price": 140,
-        "type": "Gravel",
-        "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-gravel-specialized-diverge-sport-carbon-2022-czarny-01_2.jpg",
-        "size": "XL",
-        "color": "czarny",
-        "productCount": 2,
-        "model": "Diverge Sport Carbon 2022",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Rower miejski Trek District 1 Equipped 2023",
-        "price": 40,
-        "type": "Miejski",
-        "description": "District 1 EQ to niezawodny rower miejski, który świetnie sprawdzi się jako zdrowy środek transportu pozwalający Ci na zostawienie samochodu w garażu. Mimo miejskiego charakteru wciąż potrafi dostarczyć mnóstwo radości z jazdy! ",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-miejski-trek-district-1-equipped-2021-01_1.jpg",
-        "size": "L",
-        "color": "czarny",
-        "productCount": 3,
-        "model": "District 1 Equipped 2023",
-        "morephoto": [
-          "https://goodsport.pl/10534/trek-district-1-equipped-2023-o-niskim-przekroku.jpg,https://trek.scene7.com/is/image/TrekBicycleProducts/District1Equipped_21_33526_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Rower gravel Trek Checkpoint ALR 5 2023",
-        "price": 250,
-        "type": "Gravel",
-        "description": "Czujesz, że luźna jazda po szutrach to Twój żywioł, a stosunek kilogramów do generowanej mocy kompletnie Cię nie interesuje? Najbardziej przystępny cenowo gravel z linii Checkpoint może być stworzony właśnie dla Ciebie. ",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-gravel-trek-checkpoint-alr-5-2022-bialy-01_3.jpg",
-        "size": "M",
-        "color": "biały",
-        "productCount": 2,
-        "model": "Checkpoint ALR 5 2023",
-        "morephoto": [
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9Disc_19_24247_B_Alt6?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR9eTap_22_35745_A_Alt3?$responsive-pjpg$&cache=on,on&wid=800&hei=600",
-          "https://trek.scene7.com/is/image/TrekBicycleProducts/MadoneSLR6eTap_23_37417_A_Alt2?$responsive-pjpg$&cache=on,on&wid=800&hei=600"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Rower fitness Giant Escape Disc 2 2023",
-        "price": 89,
-        "type": "Cross",
-        "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-miejski-giant-escape-disc-2-2022_1__1.jpg",
-        "size": "M",
-        "color": "grafitowy",
-        "productCount": 5,
-        "model": "Escape Disc 2 2023",
-        "morephoto": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXOrKRAlDtMpgiitNUmRpig4RY3x4be2NFQ&usqp=CAU,https://a.allegroimg.com/s1024/0c6c93/e5c76631432dbd781891d62f2339"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Rower górski Giant ATX 26 2023",
-        "price": 75,
-        "type": "Góral",
-        "description": "Poznaj premierowy rower górski Giant ATX 26 2023, który w atrakcyjnej cenie daje Ci maksimum frajdy i osiągi z wyższej półki!",
-        "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-gorski-giant-atx-26-2021_1__1_1.jpg",
-        "size": "L",
-        "color": "żółty",
-        "productCount": 4,
-        "model": "RC 120",
-        "morephoto": [
-          "https://www.bikeman.pl/img/15418/atx-26-ge-xs-niebieski-2021.jpg,https://www.bikeman.pl/img/15417/atx-26-ge-xs-niebieski-2021.jpg"
-        ]
-      }
-    ],
-    "type": [
-      "Szosa",
-      "Gravel",
-      "Góral",
-      "Miejski",
-      "Cross",
-      "Elektryk"
-    ],
-    "size": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ]
-  }
+  "product": [
+    {
+      "id": 1,
+      "title": "Rower szosowy Trek Madone SLR 9 Gen 7 2023",
+      "price": 350,
+      "type": "Szosa",
+      "description": "Szukasz tego co najlepsze i najszybsze? Nowy trek Madone SLR9 to prawdziwe dzieło sztuki, które dobrze wie, jak smakuje wygrana!",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-szosowy-trek-madone-slr-9-gen-7-2023-czarno-czerwony-01.jpg",
+      "size": "M",
+      "color": "srebny",
+      "productCount": 7,
+      "model": "SLR 9 Gen 7 2023"
+    },
+    {
+      "id": 2,
+      "title": "Rower fitness Giant Escape Disc 2 2023",
+      "price": 110,
+      "type": "Miejski",
+      "description": "Escape City Disc 2 2023 to nowy, uniwersalny rower typu urban od Gianta. To maszyna do szybkiego przemieszczania się po mieście pozwalająca na szybkie dojazdy do pracy, czy szkoły.",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-miejski-giant-escape-disc-2-2022_1_.jpg",
+      "size": "S",
+      "color": "grafitowy",
+      "productCount": 3,
+      "model": "Escape Disc 2 2023"
+    },
+    {
+      "id": 3,
+      "title": "Rower crossowy Polygon Heist X2",
+      "price": 121,
+      "type": "Cross",
+      "description": "Heist X2 to wszechstronny rower gotowy na wszystkie wyzwania, jakie postawi przed nim przestrzeń miejska. Świetny na dojazdy do pracy i weekendowe wycieczki po podmiejskich ścieżkach rowerowych.",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-crossowy-polygon-heist-x2-2022-01_4.jpg",
+      "size": "L",
+      "color": "niebieski",
+      "productCount": 1,
+      "model": "Heist X2"
+    },
+    {
+      "id": 4,
+      "title": "Rower szosowy Trek Madone SLR 9 eTap Gen 7",
+      "price": 550,
+      "type": "Szosa",
+      "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-szosowy-trek-madone-slr-9-etap-gen-7-2023-srebrny-01.jpg",
+      "size": "M",
+      "color": "błękitny",
+      "productCount": 1,
+      "model": "Madone SLR 9 eTap Gen 7"
+    },
+    {
+      "id": 5,
+      "title": "Rower szosowy Trek Domane AL 2 2023",
+      "price": 169,
+      "type": "Szosa",
+      "description": "Domane AL 2 2023 to najnowsza wersja jednego z podstawowych modeli rowerów szosowych od Treka. To propozycja dla osób stawiających pierwsze kroki w kolarstwie szosowym, która pozwoli na zdobywanie formy i odkrywanie tej dyscypliny.",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-szosowy-trek-domane-al-2-2021-01.jpg",
+      "size": "M",
+      "color": "niebieski",
+      "productCount": 10,
+      "model": "Trek Domane AL 2 2023"
+    },
+    {
+      "id": 6,
+      "title": "Rower gravel Specialized Diverge Sport Carbon 2022",
+      "price": 140,
+      "type": "Gravel",
+      "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/384791b6b20959df5b424e91f5ae26e1/r/o/rower-gravel-specialized-diverge-sport-carbon-2022-czarny-01_2.jpg",
+      "size": "XL",
+      "color": "czarny",
+      "productCount": 2,
+      "model": "Diverge Sport Carbon 2022"
+    },
+    {
+      "id": 7,
+      "title": "Rower miejski Trek District 1 Equipped 2023",
+      "price": 40,
+      "type": "Miejski",
+      "description": "District 1 EQ to niezawodny rower miejski, który świetnie sprawdzi się jako zdrowy środek transportu pozwalający Ci na zostawienie samochodu w garażu. Mimo miejskiego charakteru wciąż potrafi dostarczyć mnóstwo radości z jazdy! ",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-miejski-trek-district-1-equipped-2021-01.jpg",
+      "size": "L",
+      "color": "czarny",
+      "productCount": 3,
+      "model": "District 1 Equipped 2023"
+    },
+    {
+      "id": 8,
+      "title": "Rower gravel Trek Checkpoint ALR 5 2023",
+      "price": 250,
+      "type": "Gravel",
+      "description": "Czujesz, że luźna jazda po szutrach to Twój żywioł, a stosunek kilogramów do generowanej mocy kompletnie Cię nie interesuje? Najbardziej przystępny cenowo gravel z linii Checkpoint może być stworzony właśnie dla Ciebie. ",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-gravel-trek-checkpoint-alr-5-2022-bialy-01.jpg",
+      "size": "M",
+      "color": "biały",
+      "productCount": 2,
+      "model": "Checkpoint ALR 5 2023"
+    },
+    {
+      "id": 9,
+      "title": "Rower fitness Giant Escape Disc 2 2023",
+      "price": 89,
+      "type": "Cross",
+      "description": "Wszechstronny rower do poprawy osiągów! Komfortowa geometria​,​ rama z aluminium​,​ karbonowy widelec i tarczowe hamulce dają możliwość wypróbowania sił na każdym rodzaju trasy. ",
+      "image": "https://sprint-rowery.pl/media/catalog/product/cache/2cf98570d9f614fe7b8ae8291728e2d9/r/o/rower-miejski-giant-escape-disc-2-2022_1_.jpg",
+      "size": "M",
+      "color": "grafitowy",
+      "productCount": 5,
+      "model": "Escape Disc 2 2023"
+    },
+    {
+      "id": 10,
+      "title": "Rower górski Giant ATX 26 2023",
+      "price": 75,
+      "type": "Góral",
+      "description": "Poznaj premierowy rower górski Giant ATX 26 2023, który w atrakcyjnej cenie daje Ci maksimum frajdy i osiągi z wyższej półki!",
+      "image": "https://sprint-rowery.pl/media/wysiwyg/rower-gorski-giant-atx-26-2021_1__1_1.jpg",
+      "size": "L",
+      "color": "żółty",
+      "productCount": 4,
+      "model": "RC 120"
+    }
+  ],
+  "type": [
+    "Szosa",
+    "Gravel",
+    "Góral",
+    "Miejski",
+    "Cross",
+    "Elektryk"
+  ],
+  "size": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ]
+}
